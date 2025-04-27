@@ -19,7 +19,7 @@ Juan (0xjuaan): https://x.com/0xjuaan
 
 - 10+ Top 3 placements in audit competitions
 - Ranked #7 on [Sherlock's leaderboard](https://audits.sherlock.xyz/leaderboards)
-- Ongoing security partners of [Tenor Finance](https://x.com/TenorFinance)
+- Ongoing security partners with [Tenor Finance](https://x.com/TenorFinance)
 
 ## Our portfolio
 
