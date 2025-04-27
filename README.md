@@ -25,7 +25,7 @@ We specialize in DeFi protocols across EVM chains and Solana.
 
 ## 📩 Work With Us
 
-If you're serious about the security of your DeFi protocol, and want your code audited by proven researchers, reach out:
+If you're serious about the security of your DeFi protocol, and want your code audited by publicly proven researchers, reach out:
 
 https://t.me/juan_sec
 
