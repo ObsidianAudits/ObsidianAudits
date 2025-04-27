@@ -9,9 +9,9 @@ We specialize in DeFi protocols across EVM chains and Solana.
 
 **Lead researchers:**
 
-Juan (0xjuaan): https://x.com/0xjuaan
+- Juan (0xjuaan): https://x.com/0xjuaan
 
-0xSpearmint: https://x.com/0xSpearmint
+- 0xSpearmint: https://x.com/0xSpearmint
 
 ---
 
@@ -26,6 +26,7 @@ Juan (0xjuaan): https://x.com/0xjuaan
 ## 📩 Work With Us
 
 If you're serious about the security of your DeFi protocol, and want your code audited by proven researchers, reach out:
+
 https://t.me/juan_sec
 
 ---
