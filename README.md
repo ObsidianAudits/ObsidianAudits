@@ -8,6 +8,7 @@ Smart contract security by researchers with a proven track record.
 We specialize in DeFi protocols across EVM chains and Solana.
 
 Lead researchers:
+
 Juan (0xjuaan): https://x.com/0xjuaan
 
 0xSpearmint: https://x.com/0xSpearmint
