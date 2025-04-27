@@ -21,12 +21,11 @@ Juan (0xjuaan): https://x.com/0xjuaan
 - Ranked #7 on [Sherlock's leaderboard](https://audits.sherlock.xyz/leaderboards)
 - Ongoing security partners with [Tenor Finance](https://x.com/TenorFinance)
 
-## Our portfolio
-
 ---
 
 ## 📩 Work With Us
 
 If you're serious about the security of your DeFi protocol, and want your code audited by proven researchers, reach out:
+https://t.me/juan_sec
 
 ---
