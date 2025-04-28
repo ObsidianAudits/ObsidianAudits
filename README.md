@@ -11,7 +11,7 @@ We specialize in DeFi protocols across EVM chains and Solana.
 
 - Juan (0xjuaan): https://x.com/0xjuaan
 
-- 0xSpearmint: https://x.com/0xSpearmint
+- Spearmint: https://x.com/0xSpearmint
 
 ---
 
