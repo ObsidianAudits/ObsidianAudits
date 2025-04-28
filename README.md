@@ -3,7 +3,7 @@
 
 # Obsidian Audits
 
-Smart contract security by researchers with a proven track record.
+Smart contract security reviews by researchers with a proven track record.
 
 We specialize in DeFi protocols across EVM chains and Solana.
 
