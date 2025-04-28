@@ -47,3 +47,8 @@ https://t.me/juan_sec
 | [ZeroLend One](https://audits.sherlock.xyz/contests/466/leaderboard) | Sherlock | 	Aave V3 Fork | **#2**/277 🥈 | [10H, 7M](https://github.com/sherlock-audit/2024-06-new-scope-judging/issues?q=is%3Aissue+Obsidian+label%3AReward+) |
 | [SentimentV2](https://audits.sherlock.xyz/contests/349?filter=results) | Sherlock | Isolated Lending | **#3**/357 🥉 | [1H, 7M](https://github.com/sherlock-audit/2024-08-sentiment-v2-judging/issues?q=is%3Aissue+Obsidian+label%3Areward+sort%3Acreated-asc) |
 | [UniswapV4](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659) | Cantina | Concentrated Liquidity AMM  | **#6**/482 | 2M |
+
+Our solo audit portfolios can be found here:
+
+- Juan: https://github.com/0xjuaan
+- Spearmint: https://github.com/0xSpearmint
