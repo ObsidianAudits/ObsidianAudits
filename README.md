@@ -15,7 +15,7 @@ We specialize in DeFi protocols across EVM chains and Solana.
 |05/2025| [Tenor Finance](https://x.com/TenorFinance) |Order book styled, fixed rate lending platform|Market Manager| Pending |
 
 
-### Audit Competitions
+### Team Audit Competitions
 | Contest        | Platform  | Category                                  | Ranking      | Findings |
 |----------------|-----------|-------------------------------------------|--------------|----------|
 | [Pump.fun](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1/leaderboard) | Cantina  | Constant product AMM on Solana | **#1**/435 🥇 | [1M](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1/leaderboard) |
@@ -25,6 +25,13 @@ We specialize in DeFi protocols across EVM chains and Solana.
 | [Uniswap v4](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659) | Cantina | Concentrated Liquidity AMM  | **#6**/482 | 2M |
 
 ---
+
+## Researchers
+
+Our individual audit portfolios can be found here:
+
+- Juan: https://github.com/0xjuaan
+- Spearmint: https://github.com/0xSpearmint
 
 ## Highlights
 
@@ -40,10 +47,3 @@ If you're serious about the security of your DeFi protocol, and want your code a
 https://t.me/juan_sec
 
 ---
-
-## Researchers
-
-Our individual audit portfolios can be found here:
-
-- Juan: https://github.com/0xjuaan
-- Spearmint: https://github.com/0xSpearmint
