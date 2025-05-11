@@ -11,7 +11,7 @@ We specialize in DeFi protocols across EVM chains and Solana.
 ### Private reviews
 |Date| Protocol     | Category| Scope | Report |
 |----------------|----------------|------------------------------------------------|----------|----------|
-|02/2025| [Tenor Finance](https://x.com/TenorFinance) |Order book styled, fixed rate lending platform|Pool Manager| Private |
+|02/2025| [Tenor Finance](https://x.com/TenorFinance) |Order book styled, fixed rate lending platform|Pool Manager (Uniswap v4 hook) | Private |
 |05/2025| [Tenor Finance](https://x.com/TenorFinance) |Order book styled, fixed rate lending platform|Market Manager| Pending |
 
 
