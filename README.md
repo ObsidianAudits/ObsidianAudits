@@ -13,7 +13,7 @@ We specialize in DeFi protocols across EVM chains and Solana.
 |----------------|----------------|------------------------------------------------|----------|----------|
 |02/2025| [Tenor Finance](https://x.com/TenorFinance) |Order book styled, fixed rate lending platform|Pool Manager (Uniswap v4 hook) | Private |
 |05/2025| [Tenor Finance](https://x.com/TenorFinance) |Order book styled, fixed rate lending platform|Market Manager| Pending |
-|05/2025| [Hyperdrive](https://x.com/Hyperdrivedefi) |Lending Markets on Hyperliquid|Markets| Pending |
+|05/2025| [Hyperdrive](https://x.com/Hyperdrivedefi) |Lending Markets on Hyperliquid|Lending market contracts| Pending |
 
 
 ### Team Audit Competitions
