@@ -1,6 +1,3 @@
-![obsidian-profile-banner](https://github.com/user-attachments/assets/7915173c-7810-4bfa-a00d-2355c7097597)
-
-
 # Obsidian Audits
 
 Smart contract security reviews by researchers with a proven track record.
